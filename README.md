@@ -35,7 +35,7 @@ You can download a `.aar` from GitHub's [releases page](https://github.com/DevLi
 Or use Gradle:
 
 ```groovy
-compile 'devlight.io:arcprogressstackview:1.0.4'
+implementation 'devlight.io:arcprogressstackview:1.0.4'
 ```
 
 Or Maven:  

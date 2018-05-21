@@ -1,11 +1,3 @@
-<br/>
-<p align="center">
-  <a href="http://devlight.io">
-      <img src ="https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScLVBKck51Z1Rzb0E" alt="Devlight"/>
-  </a>
-</p>
-<br/>
-
 ArcProgressStackView
 ====================
 
@@ -211,24 +203,3 @@ Author
 ======
 
 Created by [Basil Miller](https://github.com/GIGAMOLE) - [@gigamole](mailto:gigamole53@gmail.com)
-
-Company
-=======
-
-[![Facebook](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScaGhGVFNKU0VxMnc)](https://www.facebook.com/devlightagency)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScZ1ExQWh5cHF5cVE)](https://twitter.com/DevLightIO)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wSccGZINzEycE1nVFE)](https://www.linkedin.com/company/devlight)
-
-
-Created by [Basil Miller](https://github.com/GIGAMOLE) - [@gigamole](mailto:gigamole53@gmail.com)
-=======
-[Here](https://github.com/DevLight) you can see open source work developed by Devlight LLC.  
-This and another works is an exclusive property of Devlight LLC. 
-
-If you want to use this library in applications which will be available on Google Play, please report us or author of the library about it.
-
-Whether you're searching for a new partner or trusted team for creating your new great product we are always ready to start work with you. 
-
-You can contact us: info@devlight.io or opensource@devlight.io.  
-Thanks in advance.
-
-Devlight LLC, 2016  
-[devlight.io](http://devlight.io)

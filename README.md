@@ -27,6 +27,16 @@ Present your progress bars in arc mode with information and total control.
 
 You can check the sample app [here](https://github.com/DevLight-Mobile-Agency/ArcProgressStackView/tree/master/app).
 
+Warn
+====
+```
+This library is not more supported. 
+If you want to add new feature or fix a bug, grab source code and do it. 
+If you think your fix or feature would be useful to other developers, 
+I can add link of your repository to this README file. 
+Thank you for using our libraries.
+```
+
 Download
 ========
 
@@ -159,7 +169,7 @@ Other methods check out in sample.
 And `XML` init:
 
 ```xml
-<<devlight.io.library.ArcProgressStackView
+<devlight.io.library.ArcProgressStackView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:apsv_rounded="true"
@@ -210,7 +220,7 @@ Company
 
 Created by [Basil Miller](https://github.com/GIGAMOLE) - [@gigamole](mailto:gigamole53@gmail.com)
 =======
-[Here](https://github.com/DevLight-Mobile-Agency) you can see open source work developed by Devlight LLC.  
+[Here](https://github.com/DevLight) you can see open source work developed by Devlight LLC.  
 This and another works is an exclusive property of Devlight LLC. 
 
 If you want to use this library in applications which will be available on Google Play, please report us or author of the library about it.
